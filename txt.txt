@@ -1,0 +1,72 @@
+Mars 볼륨에 대한 폴더 경로의 목록입니다.
+볼륨 일련 번호는 3A41-9C5A입니다.
+F:.
+│  config.py
+│  pybo.db
+│  settingfile.txt
+│  txt.txt
+│  
+├─.idea
+│  │  .gitignore
+│  │  csv-plugin.xml
+│  │  flaskSite.iml
+│  │  misc.xml
+│  │  modules.xml
+│  │  workspace.xml
+│  │  
+│  └─inspectionProfiles
+│          profiles_settings.xml
+│          Project_Default.xml
+│          
+├─migrations
+│  │  alembic.ini
+│  │  env.py
+│  │  README
+│  │  script.py.mako
+│  │  
+│  ├─versions
+│  │  │  a0f133cd7ce5_.py
+│  │  │  
+│  │  └─__pycache__
+│  │          a0f133cd7ce5_.cpython-39.pyc
+│  │          
+│  └─__pycache__
+│          env.cpython-39.pyc
+│          
+├─pybo
+│  │  models.py
+│  │  __init__.py
+│  │  
+│  ├─static
+│  │      bootstrap.min.css
+│  │      style.css
+│  │      
+│  ├─templates
+│  │  │  base.html
+│  │  │  index.html
+│  │  │  info.html
+│  │  │  style2.css
+│  │  │  
+│  │  ├─answer
+│  │  └─question
+│  │          question_detail.html
+│  │          question_list.html
+│  │          
+│  ├─views
+│  │  │  answer_views.py
+│  │  │  main_views.py
+│  │  │  question_views.py
+│  │  │  
+│  │  └─__pycache__
+│  │          answer_views.cpython-39.pyc
+│  │          main_views.cpython-39.pyc
+│  │          question_views.cpython-39.pyc
+│  │          
+│  └─__pycache__
+│          models.cpython-39.pyc
+│          __init__.cpython-39.pyc
+│          
+└─__pycache__
+        app.cpython-39.pyc
+        config.cpython-39.pyc
+        
